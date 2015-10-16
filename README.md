@@ -7,5 +7,7 @@ For example, power_digit_sum(2, 4) would return 7:
 * 2 to the power of 4 is 16
 * 1 + 6 = 7 
 
+Run `learn` until you get all of the RSpec tests to pass.
+
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 16](https://projecteuler.net/problem=16)
