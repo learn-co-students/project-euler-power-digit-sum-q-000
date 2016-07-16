@@ -5,3 +5,5 @@ describe "#power_digit_sum" do
     expect(Base64.encode64(power_digit_sum(2, 1000).to_s)).to eq(encrypted_answer)
   end
 end
+
+ 
