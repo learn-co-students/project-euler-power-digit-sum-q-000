@@ -5,4 +5,5 @@
 
 require_relative "../lib/project_euler_power_digit_sum.rb"
 
+require 'pry'
 require 'base64'
